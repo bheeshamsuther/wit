@@ -1,0 +1,15 @@
+body{
+    margin : 0px;
+    padding : 0px ;
+
+}
+p{
+    font-family: sans-serif;
+    color: gray;
+}
+
+.textDiv{
+    margin-top: 40px;
+    margin : 45px;
+    text-align: justify;
+}
